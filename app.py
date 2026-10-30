@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 st.title("Función Lineal - Act 11")
-st.sidebar("Brissa Aracely Carrasco Iglesias - 395007")
+st.sidebar.title("Brissa Aracely Carrasco Iglesias - 395007")
 
 st.write("Modifica los valores de m y b para observar cómo cambia la gráfica.")
 
